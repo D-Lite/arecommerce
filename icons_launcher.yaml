@@ -1,0 +1,8 @@
+dev_dependencies:
+  icons_launcher: "^1.1.8"
+
+flutter_icons:
+  image_path: "assets/images/launcher_icon.png"
+  android: true
+  ios: true
+  remove_alpha_ios: true
